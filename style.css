@@ -1,0 +1,6 @@
+/* Styles for paragraph elements */
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    color: blueviolet;
+}
